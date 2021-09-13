@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey , I am Attig Nadjib 👋
+
+I'm a software engineer, seeking to build high-performance,high-scale, resilient distributed systems, I've been passionate about Elixir and concurrency for a while and I also share the same interest in Python .
 
 <!--
 **itjuba/itjuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
