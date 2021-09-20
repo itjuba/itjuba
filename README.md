@@ -1,7 +1,6 @@
 ### Welcome to my repository  👋
 
-
-  <img align="right" alt="GIF" height="350" src="https://user-images.githubusercontent.com/49757658/134083881-a4bfc1d1-addb-4d5c-b996-abaf632a5d1b.gif" />
+  <img align="right" alt="GIF" height="350" src="https://user-images.githubusercontent.com/49757658/134084516-27f9e254-fbb2-4b3b-ae12-99f259b9ed24.gif" />
    
 <br />
 <br />
