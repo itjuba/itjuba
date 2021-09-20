@@ -4,7 +4,6 @@
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-    <img align="right" alt="GIF" src="https://giphy.com/embed/11kEuHSQAXXiGQ" />
 
   
  
