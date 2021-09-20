@@ -31,4 +31,4 @@ Hi, I'm Attig Nadjib 😉,I a software engineer 👨🏻‍💻
 - 📫 Please email via attignadjib@gmail.com to reach me.
 
 
-⭐️ F19 <3
+⭐ 
