@@ -1,5 +1,5 @@
 ### Welcome to my repository  👋
-
+<div class="tenor-gif-embed" data-postid="7866344" data-share-method="host" data-aspect-ratio="1.415" data-width="100%"><a href="https://tenor.com/view/programming-crazy-hard-typing-mad-gif-7866344">Programming Crazy GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ![Alt Text](https://tenor.com/HayG.giff)
 
