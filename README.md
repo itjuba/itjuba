@@ -22,7 +22,7 @@
 Hi, I'm Attig Nadjib 😉,I a software engineer 👨🏻‍💻 
 Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Python 🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" style="margin-left:500px" width="200" height="150" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 - 🌱 I’m currently learning Elixir & Graphql
 - 🤔 My research interests are with Blockchain & distributed systems
