@@ -4,7 +4,7 @@
    
 <br />
 <br />
-  Hi, I'm Attig Nadjib 😉,I a software engineer 👨🏻‍💻 
+  Hi, I'm Attig Nadjib 😉,I am software engineer 👨🏻‍💻 
 
 <br />
 <br />
