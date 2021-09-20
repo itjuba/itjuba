@@ -22,6 +22,7 @@
 
 Hi, I'm Attig Nadjib 😉, a software engineer 👨🏻‍💻 
 
+![me](https://tenor.com/brU3W.gif)
 
 
 - 🌱 I’m currently learning Elixir & Graphql
