@@ -4,9 +4,7 @@
   <img align="right" alt="GIF" height="350" src="https://user-images.githubusercontent.com/49757658/134083881-a4bfc1d1-addb-4d5c-b996-abaf632a5d1b.gif" />
  
   Hi, I'm Attig Nadjib 😉,I a software engineer 👨🏻‍💻 
-  
-<br />
-<br />
+
 
 - 🌱 I’m currently learning Elixir & Graphql
 - 🤔 My research interests are with Blockchain & distributed systems
