@@ -26,7 +26,7 @@ Hi, I'm Attig Nadjib 😉, a software engineer 👨🏻‍💻
 
 - 👨🏻‍💻 I’m currently working learning Elixir & Graphql
 - 🌱 I’m currently learning TypeScripts and Python.
-- 🤔 My research interests are with Blockchain Systems and distributed systems
+- 🤔 My research interests are with Blockchain & distributed systems
 - 💼 I’m pursuing a a degree in software engineering
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via attignadjib@gmail.com to reach me.
