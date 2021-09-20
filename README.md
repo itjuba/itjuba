@@ -24,11 +24,10 @@ Hi, I'm Attig Nadjib 😉, a software engineer 👨🏻‍💻
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 
-- 👨🏻‍💻 I’m currently working learning Elixir & Graphql
-- 🌱 I’m currently learning TypeScripts and Python.
+- 🌱 I’m currently learning Elixir & Graphql
 - 🤔 My research interests are with Blockchain & distributed systems
 - 💼 I’m pursuing a a degree in software engineering
-- 💬 Ask me about anything, I would like to answer.
+- 💬 Ask me about anything, I would like to answer. 
 - 📫 Please email via attignadjib@gmail.com to reach me.
 
 
