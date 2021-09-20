@@ -22,7 +22,7 @@
 
 Hi, I'm Attig Nadjib 😉, a software engineer 👨🏻‍💻 
 
-  <img align="right" alt="GIF" src="https://tenor.com/gif-maker?utm_source=gif-caption&utm_medium=internal&utm_campaign=gif-maker-entrypoints" />
+ <div class="tenor-gif-embed" data-postid="19008194" data-share-method="host" data-aspect-ratio="1.28514" data-width="100%"><a href="https://tenor.com/view/pc-banging-coding-swe19-programming-gif-19008194">Pc Banging GIF</a>from <a href="https://tenor.com/search/pc-gifs">Pc GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 - 🌱 I’m currently learning Elixir & Graphql
