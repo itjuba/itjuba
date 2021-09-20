@@ -1,83 +1,38 @@
+### Welcome to LøvelyBuggies's Hut 👋
 
-<!--
-### Hey , I am Attig Nadjib 👋
+<a href="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggrqy7om28j30j80omjtq.jpg">
+  <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+</a>
+<a href="https://www.linkedin.com/in/%E7%A1%95-%E5%88%98-073728144/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+</a>
+<a href="ninomyemail@gmail.com">
+  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
+<a href="https://leetcode.com/lovelybuggies/">
+  <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+</a>
+<a href="https://www.kaggle.com/ninolau">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
 
-I'm a software engineer, I seek to build high-performance,high-scale, resilient distributed systems, I've been passionate about Elixir and concurrency for a while and I also share the same interest in Python .
+<br />
+<br />
 
-**itjuba/itjuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Python 🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
-Here are some ideas to get you started:
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Status Quo**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-  <br><br>
-  <samp>
-    I'm Omer Quadri :wave:
-    <br><br>
-    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
-    <br><br>
-    I believe in a world where Milkshakes can solve any and all problems :grin:
-    <br><br>
-    P.S. I do know that HTML is not a programming language! :v:
-  </samp>
-</p>
+- 👨🏻‍💻 I’m currently working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6).
+- 🌱 I’m currently learning TypeScripts and Python.
+- 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
+- 💼 I’m pursuing a Ph.D. degree or R.A. position.
+- 💬 Ask me about anything, I would like to answer.
+- 📫 Please email via ninomyemail@gmail.com to reach me.
+- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
 
-<br>
+![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=true)
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  
-  <br>
-  
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=quadrified&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### - Languages and Tools...
-
-<p align="center">
-
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
-
----
-
-</p>
-
-### - I'm currently...
-
-- Improving my React Native skills.
-- Learning to develop Mobile-first web-apps.
-- Learning React with Redux.
-- Adding databases to my skill set.
-
----
-
-</details>
-
-
-
-<br>
-
-<p align="center">
-  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
-</p>
+⭐️ From [LovelyBuggies](https://github.com/lovelybuggies)
