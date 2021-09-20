@@ -1,13 +1,10 @@
 ### Welcome to my repository  👋
 
 
-
-
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-
-  
  
   Hi, I'm Attig Nadjib 😉,I a software engineer 👨🏻‍💻 
+  
   <br />
 <br />
 <br />
