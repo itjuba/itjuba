@@ -20,7 +20,7 @@
 <br />
 -->
 
-Hi, I'm Attig Nadjib 😉, a software engineer 👨🏻‍💻 
+Hi, I'm Attig Nadjib 😉,I a software engineer 👨🏻‍💻 
 
 
 
