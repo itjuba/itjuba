@@ -22,7 +22,7 @@
 
 Hi, I'm Attig Nadjib 😉, a software engineer 👨🏻‍💻 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://tenor.com/gif-maker?utm_source=gif-caption&utm_medium=internal&utm_campaign=gif-maker-entrypoints" />
 
 
 - 🌱 I’m currently learning Elixir & Graphql
