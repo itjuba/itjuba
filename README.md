@@ -22,6 +22,7 @@
 
 Hi, I'm Attig Nadjib 😉, a software engineer 👨🏻‍💻 
 
+  <img align="right" alt="GIF" src="https://tenor.com/brU3W.gif" />
 
 
 
