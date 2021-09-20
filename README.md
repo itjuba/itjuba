@@ -4,8 +4,9 @@
 <br />
 <br />
 
-Hi, I'm Attig Nadjib 😉,I a software engineer 👨🏻‍💻 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  Hi, I'm Attig Nadjib 😉,I a software engineer 👨🏻‍💻 
+
   
 - 🌱 I’m currently learning Elixir & Graphql
 - 🤔 My research interests are with Blockchain & distributed systems
