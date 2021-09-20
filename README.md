@@ -86,9 +86,6 @@ Here are some ideas to get you started:
   <a href="https://t.me/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
 </p>
 
-<p align="center">
-  <i> Open to anything under the stars :sparkles: </i>
-</p>
 
 <br>
 
