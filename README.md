@@ -11,7 +11,6 @@
 <br />
 <br />
 
-  
 - 🌱 I’m currently learning Elixir & Graphql
 - 🤔 My research interests are with Blockchain & distributed systems
 - 💼 I’m pursuing a  degree in software engineering
