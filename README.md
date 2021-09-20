@@ -22,6 +22,7 @@
 
 Hi, I'm Attig Nadjib 😉,I a software engineer 👨🏻‍💻 
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 - 🌱 I’m currently learning Elixir & Graphql
@@ -30,7 +31,6 @@ Hi, I'm Attig Nadjib 😉,I a software engineer 👨🏻‍💻
 - 💬 Ask me about anything, I would like to answer. 
 - 📫 Please email via attignadjib@gmail.com to reach me.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 ⭐ 
