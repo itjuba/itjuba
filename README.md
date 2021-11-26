@@ -4,7 +4,7 @@
    
 <br />
 <br />
-  Hi, I'm Attig Nadjib 😉,I am a software engineer 👨🏻‍💻 
+  Hi, I'm Attig Nadjib 😉,I am a software engineer student 👨🏻‍💻 
 
 <br />
 <br />
@@ -14,6 +14,4 @@
 - 💼 I’m pursuing a  degree in software engineering
 - 💬 Ask me about anything, I would like to answer. 
 - 📫 Please email via attignadjib@gmail.com to reach me.
-
-
-
+- :laughing: i cook programs 
