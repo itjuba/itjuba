@@ -14,4 +14,4 @@ Hi, I'm Attig Nadjib 😉,I am a software engineering student 👨🏻‍💻
 - 💼 I’m pursuing a degree in software engineering
 - 💬 Ask me about anything, I would like to answer. 
 - 📫 Please email via attignadjib@gmail.com to reach me.
-- :laughing: funny facts about me :  I cook spicy programs 
+<!--> - :laughing: funny facts about me :  I cook spicy programs <-->
