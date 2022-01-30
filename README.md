@@ -15,4 +15,4 @@ Hi, I'm Attig Nadjib 😉,I am a software engineering student 👨🏻‍💻
 - 💬 Ask me about anything, I would like to answer. 
 - 📫 Please email via attignadjib@gmail.com to reach me.
 - 
-<a href="linkedin.com/in/nadjib-attig-634b70200">LINKEDIN ACCOUNT : </a>
+<a href="linkedin.com/in/nadjib-attig-634b70200">LINKEDIN</a>
